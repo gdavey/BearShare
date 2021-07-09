@@ -1,6 +1,3 @@
-# BearShare
-Player Stats, Server Listings and other things I may want to share.
-
 ########################################
              Server Status
 ######################################## 
@@ -15,12 +12,12 @@ Working example can be seeen here: https://cdn.merric-gaming.co.uk/battlemetrics
 
 This page makes use of Steenamaroo's https://codefling.com/file/14-playerranks/ to display the stats on your website, edit line's
 97 - 100 
-                          // CHANGE ME BELOW
+                        `  // CHANGE ME BELOW
                              $servername = "";
                              $username = "";
                              $password = "";
                              $dbname = "";
-                          // ENG OF CHANGE ME
+                          // ENG OF CHANGE ME`
 
 Upload the files to your server and everything should work. 
 
