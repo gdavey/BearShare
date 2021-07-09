@@ -1,9 +1,9 @@
 # BearShare
 Player Stats, Server Listings and other things I may want to share.
 
-####################################################################
-                          Server Status
-####################################################################
+########################################
+             Server Status
+#######################################
 bm-status is a simple page that shows your server status using the Battlemetrics API on line 41 replace xxx with your server id's 
 Upload both the bm-status.php & style.css to your server.
 
